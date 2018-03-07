@@ -1,0 +1,174 @@
+
+#divCabecera { 
+	position:absolute; 
+	left:10px; 
+	top:10px; 
+	height:115px; 
+	width:655px; 
+	background:#2DA2BF; 
+	padding-top:10px; 
+	padding-left:10px;
+	border-radius:8px; 
+	border:2px solid #ADADAD; 
+}
+			
+#divMenu { 
+	position:absolute; 
+	left:10px; 
+	top:150px; 
+	width:140px; 
+	height:450px; 
+	background:#CBE2FF;
+	border-radius:8px; 
+	border:2px solid #ADADAD; 
+}
+			
+#divContenido { 
+	position:absolute; 
+	left:165px; 
+	top:150px; 
+	height:450px; 
+	width:500px;		
+	padding-left:10px;
+	background:#2DA2BF;
+	border-radius:8px; 
+	border:2px solid #ADADAD; 
+	overflow-y: scroll;
+}
+			
+#divTitulo { 
+	position:absolute; 
+	left:10px; 
+	top:10px; 
+	background:#2DA2BF; 
+	width:118px; 
+	height:50px; 
+	text-align:center; 
+	line-height:16px; 
+	font-weight:bold; 
+	font-family:Verdana; 
+	font-size:10px; 
+	color:#FFFFFF;
+}
+			
+#divAgregarItem { 
+	position:absolute; 
+	left:10px; 
+	top:90px; 
+	background:#1090A2; 
+	width:115px; 
+	height:45px; 
+	text-align:center; 
+	line-height:20px; 
+	border-radius:5px; 
+	border:2px solid #ADADAD; 
+	font-family:Verdana; 
+	font-size:14px; 
+	color:#EEEEEE;
+}
+
+#divVerItem { 
+	position:absolute; 
+	left:10px; 
+	top:165px; 
+	background:#1090A2; 
+	width:115px; 
+	height:45px; 
+	text-align:center; 
+	line-height:20px; 
+	border-radius:5px; 
+	border:2px solid #ADADAD; 
+	font-family:Verdana; 
+	font-size:14px; 
+	color:#EEEEEE;
+}
+			
+#divModificarItem { 
+	position:absolute; 
+	left:10px; 
+	top:235px; 
+	background:#1090A2; 
+	width:115px; 
+	height:45px; 
+	text-align:center; 
+	line-height:20px; 
+	border-radius:5px; 
+	border:2px solid #ADADAD; 
+	font-family:Verdana; 
+	font-size:14px; 
+	color:#EEEEEE;
+}			
+
+#divEliminarItem { 
+	position:absolute; 
+	left:10px; 
+	top:305px; 
+	background:#1090A2; 
+	width:115px; 
+	height:45px; 
+	text-align:center; 
+	line-height:20px; 
+	border-radius:5px; 
+	border:2px solid #ADADAD; 
+	font-family:Verdana; 
+	font-size:14px; 
+	color:#EEEEEE;
+}
+
+#divLogout{
+	position:absolute; 
+	left:10px; 
+	top:375px; 
+	background:#1090A2; 
+	width:115px; 
+	height:45px; 
+	text-align:center; 
+	line-height:20px; 
+	border-radius:5px; 
+	border:2px solid #ADADAD; 
+	font-family:Verdana; 
+	font-size:12px; 
+	color:#EEEEEE;
+}		
+
+#tablaCoche{
+	margin:25px;
+	border:1px solid;
+}
+
+.titulo {
+	font-family:Verdana; 
+	font-size:16px; 
+	color:#EEEEEE;
+}
+
+.texto {
+	font-family:Verdana; 
+	font-size:12px; 
+	color:#FFFFFF;
+}
+
+.boton { 
+	height: 30px; 
+	width: 200px;
+	border-radius:5px 5px 5px 5px; 
+	border:2px solid #ADADAD; 
+	background: #1090A2; 
+	font-family: Verdana; 
+	color: #EEEEEE; 
+	margin-top: 15px;
+	font-size: 18px;
+	border-radius: 5px;
+}
+	
+#tablaAgregar, #tablaModificarCoche td{
+	font-size: 18px;
+}	
+
+#botonLogout{
+	margin-top: 15px;
+	width: 110px;
+	font-size: 11px;
+	left:-5px;
+}	   
+
